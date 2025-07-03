@@ -1,4 +1,3 @@
-# Data-Analyst-internship-final-Project
 
 # 📊 YouTube Trending Video Analytics (India)
 
@@ -83,7 +82,4 @@ This analysis helps content creators and marketers understand viewer behavior on
 
 ## 🧑‍💻 Author
 
-Vishwachari 
-
-Data Analyst Intern  
-Elevate Labs  
+Vishwachari  
