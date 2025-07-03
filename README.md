@@ -79,30 +79,11 @@ This analysis helps content creators and marketers understand viewer behavior on
 - Multi-country YouTube dataset integration
 - Sentiment analysis on titles and tags
 - NLP on comments for emotion & feedback insights
-
----
-
-## 📁 Project Structure
-/YouTube-Trending-Analytics/
-│
-├── datasets/
-│ └── INvideos.csv
-│
-├── notebooks/
-│ └── data_cleaning.ipynb
-│
-├── dashboard/
-│ └── PowerBI_Report.pbix
-│
-├── reports/
-│ ├── FInal-YouTube-Trending-Video-Analytics-Report.pdf
-│ └── final-project-pdf-dashboard.pdf
-│
-└── README.md
 ---
 
 ## 🧑‍💻 Author
 
 Vishwachari 
+
 Data Analyst Intern  
 Elevate Labs  
